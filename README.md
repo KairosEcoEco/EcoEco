@@ -35,6 +35,6 @@
 
 ## 프로젝트 영상
 
-[![Watch the video](https://img.youtube.com/vi/ESS8nJtRiGk/0.jpg)]([https://youtu.be/_DwVPgDf7ro](https://youtu.be/_DwVPgDf7ro))
+[![Watch the video](https://img.youtube.com/vi/_DwVPgDf7ro/0.jpg)]([https://youtu.be/_DwVPgDf7ro](https://youtu.be/_DwVPgDf7ro))
 
 
