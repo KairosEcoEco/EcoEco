@@ -1,0 +1,2 @@
+string trash_name
+geometry_msgs/Point box_coords

@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="recycle_bot" type="detection_publisher.py" name="detection_publisher" output="screen" />
+    <node pkg="recycle_bot" type="control_subscriber.py" name="control_subscriber" output="screen" />
+</launch>
